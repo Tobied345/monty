@@ -31,7 +31,6 @@ $ ./monty [filename] $ To run the interpreter:
 
 $ ./monty file.m 2 1 0 0 3 2 1 $
 
-Authors Grace Abraham (gracetessy) and Ogundowole Oluwatobi (Tobied345)
 ## Features
 ### Opcodes
 #### monty executes the following opcodes:
@@ -42,3 +41,6 @@ push Pushes an element to the stack pall Prints all the values on the stack pint
 When a nonextistent opcode is passed, the interpreter prints an error message and stops:
 
 $ cat errorfile.m push 1 pint pcx $ ./monty errorfile.m 1 L3: unknown instruction pcx
+
+### Authors 
+Grace Abraham (gracetessy) and Ogundowole Oluwatobi (Tobied345)
