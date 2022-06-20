@@ -31,6 +31,7 @@ $ ./monty [filename] $ To run the interpreter:
 
 $ ./monty file.m 2 1 0 0 3 2 1 $
 
+Authors Grace Abraham (gracetessy) and Ogundowole Oluwatobi (Tobied345)
 ## Features
 ### Opcodes
 #### monty executes the following opcodes:
